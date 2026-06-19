@@ -1,0 +1,11 @@
+.DS_Store
+*.part
+*.ytdl
+*.temp
+*.tmp
+*.mp4
+*.mkv
+*.webm
+*.mov
+video-downloads/
+downloads/
