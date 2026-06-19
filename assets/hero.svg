@@ -1,0 +1,42 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Video Downloader Codex Skill</title>
+  <desc id="desc">A dark GitHub README hero for a local Codex skill that downloads web videos with yt-dlp.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111F"/>
+      <stop offset="0.46" stop-color="#102B3F"/>
+      <stop offset="1" stop-color="#0E1A2B"/>
+    </linearGradient>
+    <linearGradient id="card" x1="170" y1="116" x2="1110" y2="524" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14283A"/>
+      <stop offset="1" stop-color="#0D1725"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="220" y1="188" x2="1060" y2="452" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#35D0BA"/>
+      <stop offset="0.52" stop-color="#7C5CFF"/>
+      <stop offset="1" stop-color="#FFB454"/>
+    </linearGradient>
+    <filter id="shadow" x="130" y="76" width="1020" height="488" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="28" stdDeviation="28" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <g opacity="0.2">
+    <path d="M0 522C174 462 307 494 472 525C651 559 776 565 945 492C1062 441 1160 417 1280 439V640H0V522Z" fill="#35D0BA"/>
+    <path d="M0 96C144 138 286 110 423 83C600 48 779 34 970 95C1086 132 1184 151 1280 132V0H0V96Z" fill="#7C5CFF"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="170" y="116" width="940" height="408" rx="28" fill="url(#card)" stroke="#24384C"/>
+    <rect x="210" y="156" width="860" height="328" rx="20" fill="#08111F" stroke="#20364A"/>
+    <rect x="244" y="196" width="400" height="248" rx="18" fill="#111F2E" stroke="#2E455B"/>
+    <path d="M398 282C398 267.3 414 258.1 426.8 265.5L517.4 317.8C530.2 325.2 530.2 343.7 517.4 351.1L426.8 403.4C414 410.8 398 401.6 398 386.9V282Z" fill="url(#accent)"/>
+    <rect x="700" y="210" width="316" height="36" rx="18" fill="#172A3C"/>
+    <rect x="700" y="270" width="250" height="18" rx="9" fill="#35D0BA"/>
+    <rect x="700" y="308" width="310" height="18" rx="9" fill="#405A70"/>
+    <rect x="700" y="346" width="280" height="18" rx="9" fill="#405A70"/>
+    <rect x="700" y="398" width="142" height="42" rx="21" fill="#35D0BA"/>
+    <rect x="858" y="398" width="124" height="42" rx="21" fill="#182B3D" stroke="#334C63"/>
+  </g>
+  <text x="640" y="72" text-anchor="middle" fill="#D7F7FF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="30" font-weight="700">Video Downloader Codex Skill</text>
+  <text x="640" y="584" text-anchor="middle" fill="#9FB6C8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22">Paste a page URL. Save the highest available video locally.</text>
+</svg>
