@@ -1,0 +1,3 @@
+display_name: Video Downloader
+short_description: Download web videos with a local yt-dlp workflow.
+default_prompt: Download this video in the highest available quality and save it locally.
